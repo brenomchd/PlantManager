@@ -1,10 +1,8 @@
-## 🪴 Plantmanager
-![cover](capa.png?style=flat)
 <h1 align="center">
-  <img alt="Plant Manager" title="Plant Manager" src=".github/logo.png" />
+  <img alt="Plant Manager" title="Plant Manager" src="NLW/PlantManager/.github/logo.png" />
 </h1>
 <p align="center">
-  <img alt="Plant Manager" src=".github/plantmanager.png" width="100%">
+  <img alt="Plant Manager" src="NLW/PlantManager/.github/plantmanager.png" width="100%">
 </p>
 
 ## ✨  Tecnologias 
